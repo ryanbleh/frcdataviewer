@@ -1,0 +1,1 @@
+This is a proof of concept FIRST Robotics Challenge team stats viewer that utilizes both information from public API's (TheBlueAlliance, Statbotics), and internal team data collected through scouting. 
