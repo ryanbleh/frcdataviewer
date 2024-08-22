@@ -2,7 +2,9 @@
 
 Team Viewer is a powerful tool designed to provide a comprehensive overview of FIRST Robotics Challenge (FRC) team statistics. Currently optimized for the 2024 game, Crescendo, this app is intended to be adaptable for future seasons, including 2025 and beyond.
 
-The majority of data is sourced from our team's internal scouting database, with additional statistics pulled from external resources like TheBlueAlliance.com and Statbotics.io.
+The inspiration for this project came from my experience in strategy discussions with my team, where we frequently switched between Tableau, TheBlueAlliance, and Statbotics. Although we gathered a substantial amount of data, extracting the best strategy from that information was often confusing and time-consuming, particularly during multi-day events.
+
+Beak is designed to simplify this process by collecting the most crucial data and presenting it in an exceptionally user-friendly interface. Thanks to its web-forward approach and instant data collation, Beak enables users to access the most up-to-date information during events. This allows teams to develop optimal match strategies in real-time, rather than being confined to using scouting data solely for picklists.
 
 ## Features
 ### Navigation Bar 
