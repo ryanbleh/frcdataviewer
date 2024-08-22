@@ -15,13 +15,13 @@ Navigate to other pages with unique features
 
 Quickly navigate to sections of the page with the press of a button
 
-### Team Overview
+### Quick Facts
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/626f0adc-b8ce-4d0b-a1ab-b5175ca146cf">
 
 Quickly access essential details about any team with our customizable 'Quick Facts' section. This area provides a snapshot of the most relevant information at a glance.
 
-### Robot Capabilities
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/26fa252d-656f-44c1-9b88-75333549f144">
+### Team Overview
+<img width="500" alt="image" src="https://cloud-f90yoal2t-hack-club-bot.vercel.app/0image.png">
 
 Dive into detailed information about a robot's mechanical and software capabilities, along with insights into the drive team's performance.
 
@@ -36,7 +36,7 @@ Get an in-depth look at each event a team has participated in. This includes key
 Explore a team's autonomous performance with detailed statistics and accuracy metrics. The section also includes an analysis panel that breaks down each autonomous path and its corresponding stats in a clear, separated format.
 
 ### Teleop Mode Breakdown
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/f9df6be5-6038-40db-b3b3-6966648310f7">
+<img width="500" alt="image" src="https://cloud-l2eaviy22-hack-club-bot.vercel.app/0image.png">
 
 The Teleop section is organized into four key categories: Intake, Speaker, Amp, and Shuffle. Each category focuses on the most critical aspects of Teleop, providing detailed information relevant to each area.
 
