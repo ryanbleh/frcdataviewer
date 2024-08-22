@@ -5,6 +5,15 @@ Team Viewer is a powerful tool designed to provide a comprehensive overview of F
 The majority of data is sourced from our team's internal scouting database, with additional statistics pulled from external resources like TheBlueAlliance.com and Statbotics.io.
 
 ## Features
+### Navigation Bar 
+<img width="500" alt="image" src="https://cloud-n581zmsbc-hack-club-bot.vercel.app/0image.png">
+
+Navigate to other pages with unique features
+
+### Navigation Bar (Scrolling)
+<img width="500" alt="image" src="https://cloud-d80qhusiq-hack-club-bot.vercel.app/0beaknavbar.png">
+
+Quickly navigate to sections of the page with the press of a button
 
 ### Team Overview
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/626f0adc-b8ce-4d0b-a1ab-b5175ca146cf">
