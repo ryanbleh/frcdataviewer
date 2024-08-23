@@ -1,4 +1,5 @@
-# Beak 
+<img width="1000" alt="image" src="https://cloud-oe8b8utrb-hack-club-bot.vercel.app/0beakv6.svg">
+
 
 Beak is a powerful tool designed to provide a comprehensive overview of FIRST Robotics Challenge (FRC) team statistics. Currently optimized for the 2024 game, Crescendo, Beak is intended to be adaptable for future seasons, including 2025 and beyond.
 
