@@ -47,3 +47,6 @@ The Teleop section is organized into four key categories: Intake, Speaker, Amp, 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/33c02861-48c5-4fab-b88c-05b5061ccf8d">
 
 Similar to the Teleop section, the Endgame section offers insights into the three main endgame actions: Trapping, Harmonizing, and Climbing. Each action is analyzed with relevant stats to help teams understand their performance during the crucial endgame phase.
+
+## Figma 
+You can view the figma file for this project [here](https://www.figma.com/design/mCAN90nNfy18f3cu0o7Cos/BEAK?node-id=0-1&t=BKGW4NYNvCoH9bIN-1)
